@@ -15,3 +15,4 @@ console.log(path.extname(websiteHome));
 
 console.log(__dirname);
 console.log(__filename);
+
